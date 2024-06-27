@@ -5,7 +5,7 @@
 
 <!-- Info Header -->
 <p align="center">
-  <a href="https://github.com/Mike-205/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer..&hearts;++;Mobile+App+Developer,;Flutter+developer;Applied+Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/Mike-205/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer..&hearts;++;Mobile+App+Developer,;Flutter+developer;Applied+Computer+Science+Student,;Active+Learner+Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <br/>
@@ -26,15 +26,15 @@
 <!--Github Streak-->
 <picture style="width=600px">
 <source
-  srcset="https://streak-stats.demolab.com/?user=Mike-205&theme=transparent&exclude_days=Sat,Sun&card_width=600px&starting_year=2023"
+  srcset="https://streak-stats.demolab.com/?user=Mike-205&theme=transparent&exclude_days=Sun&card_width=600px&starting_year=2023"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://streak-stats.demolab.com/?user=Mike-205&theme=outrun&exclude_days=Sat,Sun&card_width=600px&starting_year=2023"
+  srcset="https://streak-stats.demolab.com/?user=Mike-205&theme=outrun&exclude_days=Sun&card_width=600px&starting_year=2023"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 
-<img src="https://streak-stats.demolab.com/?user=Mike-205&theme=outrun&exclude_days=Sat,Sun&card_width=600px&starting_year=2023" />
+<img src="https://streak-stats.demolab.com/?user=Mike-205&theme=outrun&exclude_days=Sun&card_width=600px&starting_year=2023" />
 </picture>
 
 <!--Top Langs-->
