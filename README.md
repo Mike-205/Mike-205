@@ -5,7 +5,7 @@
 
 <!-- Info Header -->
 <p align="center">
-  <a href="https://github.com/Mike-205/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer..&hearts;++;Mobile+App+Developer,;Flutter+developer;Applied+Computer+Science+Student,;Active+Learner+Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/Mike-205/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer...&hearts;++;Mobile+App+Developer,;Flutter+developer;Applied+Computer+Science+Student,;Active+Learner+and+Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <br/>
