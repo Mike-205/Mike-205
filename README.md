@@ -23,19 +23,19 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Mike-205&show_icons=true&card_width=600px&theme=outrun&count_private=true&custom_title=My+Github+Stats%3A" />
 </picture>
 
-<!--Github Streak-->
+[<!--Github Streak-->
 <picture style="width=600px">
 <source
-  srcset="https://streak-stats.demolab.com/?user=Mike-205&theme=transparent&exclude_days=Sun&card_width=600px&starting_year=2023"
+  srcset="https://streak-stats.demolab.com/?user=Mike-205&theme=transparent&exclude_days=Sat,Sun&card_width=600px&starting_year=2023"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://streak-stats.demolab.com/?user=Mike-205&theme=outrun&exclude_days=Sun&card_width=600px&starting_year=2023"
+  srcset="https://streak-stats.demolab.com/?user=Mike-205&theme=outrun&exclude_days=Sat,Sun&card_width=600px&starting_year=2023"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 
-<img src="https://streak-stats.demolab.com/?user=Mike-205&theme=outrun&exclude_days=Sun&card_width=600px&starting_year=2023" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=Mike-205&theme=outrun&exclude_days=Sat,Sun&card_width=600px&starting_year=2023" />
+</picture>](https://github.com/Mike-205/Mike-205/edit/main/README.md)
 
 <!--Top Langs-->
 <picture style="width=600px">
