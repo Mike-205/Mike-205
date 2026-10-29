@@ -33,6 +33,15 @@ I design UI/UX in Figma alongside building.
 ## Weekly coding activity
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown         5 hrs 40 mins         ███████████████▒░░░░░░░░░   60.89 %
+Kotlin           2 hrs 37 mins         ███████░░░░░░░░░░░░░░░░░░   28.10 %
+Other            18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Python           13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+TOML             13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Stats
