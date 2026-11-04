@@ -20,7 +20,6 @@ mike-mwongela
 $ cat about.txt
 Applied CS student @ Chuka University · Nairobi
 Mobile & web dev · Flutter, Supabase, TypeScript
-Currently: internship @ Safaricom PLC
 
 ```
 
