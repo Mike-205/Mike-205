@@ -34,11 +34,11 @@ I design UI/UX in Figma alongside building.
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            6 hrs 21 mins         ████████████▒░░░░░░░░░░░░   48.99 %
-Markdown          2 hrs 53 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.23 %
-Python            1 hr 33 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-XML               48 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Other             24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Kotlin            6 hrs 16 mins         ██████████████░░░░░░░░░░░   56.46 %
+Markdown          2 hrs 23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+XML               48 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+TypeScript        47 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Other             19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
